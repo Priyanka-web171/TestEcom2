@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 TestEcommerceWebsite/
 ├── home/
@@ -27,3 +28,6 @@ TestEcommerceWebsite/
 |__ tree.txt
 
 
+=======
+# TestEcommerceWebsite
+>>>>>>> origin/main
